@@ -57,6 +57,7 @@ lib/
 
 ### Screenshots
 
+![User List](https://github.com/Abiidahiya/user_list_app/blob/a0c4f981650f83e9d70846cf9d69646a5b1749bb/user%20list.png)
 ![User Page](https://github.com/Abiidahiya/user_list_app/blob/830be6c0078f61f19b5b7460a469abe746ede75f/user%20details.png)
   
 ## Additional Notes

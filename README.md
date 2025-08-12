@@ -55,6 +55,10 @@ lib/
 2. Get dependencies: flutter pub get
 3. Run the app on emulator or device: flutter run
 
+### Screenshots
+
+![User Page](https://github.com/Abiidahiya/user_list_app/blob/830be6c0078f61f19b5b7460a469abe746ede75f/user%20details.png)
+  
 ## Additional Notes
 1. The app uses flutter_bloc package for state management.
 

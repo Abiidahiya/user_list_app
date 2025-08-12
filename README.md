@@ -10,7 +10,7 @@ The app follows a clean architecture with separate layers for API calls, reposit
 - Error handling for API failures
 - Modular folder structure for scalability
 - UI components like UserCard & UserTile for reusable widgets
-- Pull-to-refresh functionality
+- Refresh functionality
 
 
 ##  How It Works
